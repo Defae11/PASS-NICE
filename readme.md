@@ -1,4 +1,4 @@
-# PASS-NICE
+# PASS-NICE [ 수정본 ]
 
 [![PyPI version](https://badge.fury.io/py/pass-nice.svg)](https://badge.fury.io/py/pass-nice)
 [![Python Versions](https://img.shields.io/pypi/pyversions/pass-nice.svg)](https://pypi.org/project/pass-nice/)
@@ -50,3 +50,4 @@ pip install pass-nice
 
 ---
 ⭐ 이 프로젝트가 도움이 되셨다면 Star를 눌러주세요!
+[ 이 프로젝트는 원본인 https://github.com/Defae11/PASS-NICE를 포크하여 수정한것입니다. ] 
