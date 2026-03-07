@@ -1,4 +1,4 @@
-# Changelog: V2.0.2 -> V2.1.0 [2026-01-19]
+# Changelog: V2.0.2 -> V2.2.0 [2026-01-19]
 
 ### PASS-NICE 레포지토리가 PyPI에 모듈로 업로드되었습니다!
 - `pip install pass_nice` 를 통해 설치하실 수 있습니다.
