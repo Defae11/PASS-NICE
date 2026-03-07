@@ -9,10 +9,10 @@ description = "NICE 아이디 본인인증 요청을 자동화해주는 비공�
 readme = "readme.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Developer", email = "sunr1s2@proton.me"}
+    {name = "Developer", email = "defae@proton.me"}
 ]
 maintainers = [
-    {name = "Developer", email = "sunr1s2@proton.me"}
+    {name = "Developer", email = "defae@proton.me"}
 ]
 keywords = ["nice", "verification", "sms", "identity", "korea", "authentication"]
 classifiers = [
@@ -35,9 +35,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/shy9-29/PASS-NICE"
-Repository = "https://github.com/shy9-29/PASS-NICE"
-Issues = "https://github.com/shy9-29/PASS-NICE/issues"
+Homepage = "https://github.com/Defae11/PASS-NICE"
+Repository = "https://github.com/Defae11/PASS-NICE"
+Issues = "https://github.com/Defae11/PASS-NICE/issues"
 
 [tool.hatch.build.targets.sdist]
 include = [
