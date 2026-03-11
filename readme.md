@@ -50,4 +50,4 @@ pip install pass-nice
 
 ---
 ⭐ 이 프로젝트가 도움이 되셨다면 Star를 눌러주세요!
-[ 이 프로젝트는 원본인 https://github.com/Defae11/PASS-NICE를 포크하여 수정한것입니다. ] 
+[ 이 프로젝트는 원본인 https://github.com/KR-Identification/PASS-NICE를 포크하여 수정한것입니다. ] 
